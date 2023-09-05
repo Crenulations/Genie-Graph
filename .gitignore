@@ -1,6 +1,8 @@
 # Ignore .vs directory
+Debug/
+x64/
 .vs/
-x64
+
 
 # Ignore build artifacts
 [Oo]bj/
