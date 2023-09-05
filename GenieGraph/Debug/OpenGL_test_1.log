@@ -1,0 +1,10 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+App.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+App.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+C:\Users\Theo\Documents\OpenGLRoot\opengl_test_1\Dependencies\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Theo\Documents\OpenGLRoot\opengl_test_1\Debug\OpenGL_test_1.exe : fatal error LNK1120: 7 unresolved externals

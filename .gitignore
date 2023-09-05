@@ -1,31 +1,3 @@
 # Ignore .vs directory
 .vs/
-
-# Ignore build artifacts
-[Oo]bj/
-[Bb]in/
-*.dll
-*.exe
-*.pdb
-*.cache
-*.log
-
-# Ignore user-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Ignore Windows generated files
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# Other common directories and files to ignore
-*.log
-*.bak
-*.swp
-*~
-.DS_Store
+x64
