@@ -17,5 +17,5 @@ Genie Graph is written mostly in C++ but a python version is in progress.
 
 ## Usage/Examples
 
-![alt text](https://s11.gifyu.com/images/SgAha.gif)
+![Alt text](.examples/ex1.gif)
 
